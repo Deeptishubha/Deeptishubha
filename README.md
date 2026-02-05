@@ -10,9 +10,9 @@ Hi there, I'm Deepti Shubha !<br>I’m a budding developer with a deep curiosity
 
 
 ## 📊 GitHub Stats:
-![Deepti's Stats](https://github-readme-stats.vercel.app/api?username=Deeptishubha&theme=transparent&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deeptishubha&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptishubha&theme=transparent&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Deeptishubha&theme=transparent&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deeptishubha&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptishubha&theme=transparent&layout=compact)
 
 ---
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Deeptishubha&icon=0&color=0)
